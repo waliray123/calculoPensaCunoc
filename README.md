@@ -1,1 +1,3 @@
-Proyecto Pensa de estudios para Centro universitario de occidente
+# Calculadora de Cursos segun Pensa de Estudios CUNOC
+
+
