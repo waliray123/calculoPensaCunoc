@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculoPensaCunoc/static/css/main.073c9b0a.css",
+    "main.js": "/calculoPensaCunoc/static/js/main.cbb2c206.js",
+    "static/js/787.28cb0dcd.chunk.js": "/calculoPensaCunoc/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/calculoPensaCunoc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/calculoPensaCunoc/index.html",
+    "main.073c9b0a.css.map": "/calculoPensaCunoc/static/css/main.073c9b0a.css.map",
+    "main.cbb2c206.js.map": "/calculoPensaCunoc/static/js/main.cbb2c206.js.map",
+    "787.28cb0dcd.chunk.js.map": "/calculoPensaCunoc/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cbb2c206.js"
+  ]
+}
